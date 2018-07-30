@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<line fill="none" stroke="#9F509F" stroke-width="0.5" stroke-miterlimit="10" x1="75" y1="0" x2="75" y2="150"/>
+<line fill="none" stroke="#9F509F" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="150" x2="150" y2="0"/>
+<line fill="none" stroke="#9F509F" stroke-width="0.5" stroke-miterlimit="10" x1="75" y1="0" x2="150" y2="150"/>
+<g>
+	<path d="M149,1v148H1V1H149 M150,0H0v150h150V0L150,0z"/>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="100" y1="0" x2="100" y2="1"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="2,3" x1="100" y1="4" x2="100" y2="147.5"/>
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="100" y1="149" x2="100" y2="150"/>
+	</g>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="105.25" y1="132.689" x2="105.25" y2="143.189"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="105.25" y1="137.939" x2="115.75" y2="137.939"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="143.97" y1="132.689" x2="143.97" y2="143.189"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="143.97" y1="137.939" x2="133.5" y2="137.939"/>
+</g>
+<text transform="matrix(1 0 0 1 115.75 141.4629)" font-family="'MyriadPro-Regular'" font-size="12">1/3</text>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="6.25" y1="132.689" x2="6.25" y2="143.189"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="6.25" y1="137.939" x2="40.75" y2="137.939"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="94.5" y1="132.689" x2="94.5" y2="143.189"/>
+	<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" x1="94.5" y1="137.939" x2="60" y2="137.939"/>
+</g>
+<text transform="matrix(1 0 0 1 42.25 141.4629)" font-family="'MyriadPro-Regular'" font-size="12">2/3</text>
+</svg>
